@@ -1,2 +1,2 @@
-# Clique-Counting-FFFk
-FFFk: Distributed algorithm that finds the exact number of cliques in large-scale dataset
+# Clique-Counting-on large scale dataset with FFFk
+
